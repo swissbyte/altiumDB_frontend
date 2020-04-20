@@ -25,6 +25,7 @@
             ],
             "styles": [
               "src/styles.css",
+              "src/styles.scss",
               "src/bootstrap.min.css"
             ],
             "scripts": []
@@ -120,6 +121,7 @@
           }
         }
       }
-    }},
+    }
+  },
   "defaultProject": "frontend"
 }
